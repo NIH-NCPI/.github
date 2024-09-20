@@ -16,7 +16,7 @@ The following table provides a quick overview of the organization of the NCPI Gi
 
 | <p align="center">Repository</p> | <p align="center">Description</p> |
 |--------|---------------|
-| [Interoperability Projects](https://github.com/NCPI-test/NCPI-Interoperability-Projects-Test) | Repository with files that briefly describe each interoperability project and link to their respective project repositories for actual development. <br/> **Repository Structure:** <br> - `Overview`: Project documentation <br> - `Projects`: Descriptions of the projects with links to their repositories |
+| [Interoperability Projects](https://github.com/NCPI-test/NCPI-Interoperability-Projects-Test) | Repository with files that briefly describe each interoperability project and links to their respective project repositories for actual development. <br/> **Repository Structure:** <br> - `Overview`: Project documentation <br> - `Projects`: Descriptions of the projects with links to their repositories |
 | [NCPI FHIR Implementation Guide 2](https://github.com/NIH-NCPI/ncpi-fhir-ig-2?tab=readme-ov-file) | Relaunch of the IG project with a clearer focus, an explicit style guide using the current tools including Sushi v3. |
 | [NCPI FHIR Shiny Browser](https://github.com/NIH-NCPI/ncpi-fhir-shiny-browser) | Example R Shiny applications and supporting functions that allow browsing and parsing FHIR objects. |
 | [NCPI FHIR Client](https://github.com/NIH-NCPI/ncpi-fhir-client) | Basic FHIR client with built-in modular authentication. |
