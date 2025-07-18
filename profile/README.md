@@ -5,7 +5,7 @@
     <a> Home</a> |
     <a href="https://github.com/NIH-NCPI/About/blob/main/README.md">About</a> |
     <a href="https://github.com/NIH-NCPI/Partners/blob/main/README.md">Partners</a> |
-    <a href="https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md">Projects</a> |
+    <a href="https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md" >Projects</a> |
     <a href="https://github.com/NIH-NCPI/Resources/blob/main/README.md">Resources</a>
   </h2>
 </div>
@@ -19,7 +19,7 @@ The purpose of this page is two fold:
   - Provide information regarding the NCPI program more broadly
     - The [About](https://github.com/NIH-NCPI/About/blob/main/README.md) repository provides an overview of the NCPI program and its components.
     - The [Partners](https://github.com/NIH-NCPI/Partners/blob/main/README.md) repository provides details on the NCPI partner systems.
-    - The [Projects](https://github.com/NIH-NCPI/Interoperability-Projects) repository provides an overview of ongoing and past interoperability projects.
+    - The [Projects](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md) repository provides an overview of ongoing and past interoperability projects.
     - The [Resources](https://github.com/NIH-NCPI/Resources/blob/main/README.md) repository provides various interoperability resources inlcuding information about key NCPI standards such as Researcher Auth Service, Data Repository Service, and FHIR. 
   
 
@@ -30,7 +30,7 @@ The following table provides a quick overview of the interoperability focused to
 | <p align="center">Repository</p> | <p align="center">Description</p> |
 |--------|---------------|
 | [NCPI FHIR Implementation Guide 2](https://github.com/NIH-NCPI/ncpi-fhir-ig-2?tab=readme-ov-file) | Relaunch of the IG project with a clearer focus, an explicit style guide using the current tools including Sushi v3. |
-| [FHIR Aggregator](https://fhir-aggregator.github.io/) | An open-access tool for finding and downloading biomedical data from across the NIH developed by [Interoperability Project 007](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/Connecting%20FHIR%2C%20the%20CDA%2C%20and%20DRS%20Across%20NIH%20Cloud%20Resources.md).  | 
+| [FHIR Aggregator](https://fhir-aggregator.github.io/) | An open-access tool for finding and downloading biomedical data from across the NIH developed by [Interoperability Project: Connecting FHIR, the CDA, and DRS Across NIH Cloud Resources](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/OHSU-FHIR.md).  | 
 | [NCPI FHIR Shiny Browser](https://github.com/NIH-NCPI/ncpi-fhir-shiny-browser) | Example R Shiny applications and supporting functions that allow browsing and parsing FHIR objects. |
 | [Locutus](https://github.com/NIH-NCPI/locutus) | Backend for a web-based terminology mapping tool aimed at harmonizing dataset terms with public ontologies such as MeSH, HPO, and others. |
 | [NCPI FHIR Client](https://github.com/NIH-NCPI/ncpi-fhir-client) | Basic FHIR client with built-in modular authentication. |
