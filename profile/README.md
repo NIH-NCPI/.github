@@ -30,7 +30,7 @@ The following table provides a quick overview of the interoperability focused to
 | <p align="center">Repository</p> | <p align="center">Description</p> |
 |--------|---------------|
 | [NCPI FHIR Implementation Guide 2](https://github.com/NIH-NCPI/ncpi-fhir-ig-2?tab=readme-ov-file) | Relaunch of the IG project with a clearer focus, an explicit style guide using the current tools including Sushi v3. |
-| [FHIR Aggregator](https://fhir-aggregator.github.io/) | An open-access tool for finding and downloading biomedical data from across the NIH developed by [Interoperability Project: Connecting FHIR, the CDA, and DRS Across NIH Cloud Resources](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/OHSU-FHIR.md).  | 
+| [FHIR Aggregator](https://fhir-aggregator.github.io/) | An open-access tool for finding and downloading biomedical data from across the NIH developed by [Interoperability Project: Connecting FHIR, the CDA, and DRS Across NIH Cloud Resources](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/OHSU-FHIR.md). | 
 | [NCPI FHIR Shiny Browser](https://github.com/NIH-NCPI/ncpi-fhir-shiny-browser) | Example R Shiny applications and supporting functions that allow browsing and parsing FHIR objects. |
 | [Locutus](https://github.com/NIH-NCPI/locutus) | Backend for a web-based terminology mapping tool aimed at harmonizing dataset terms with public ontologies such as MeSH, HPO, and others. |
 | [NCPI FHIR Client](https://github.com/NIH-NCPI/ncpi-fhir-client) | Basic FHIR client with built-in modular authentication. |
@@ -39,6 +39,7 @@ The following table provides a quick overview of the interoperability focused to
 | [NCPI Whistler Tutorial](https://github.com/NIH-NCPI/NCPI-Whistler-Tutorial) | Step-by-step guide for creating a project to transform research data into FHIR resources and optionally load them into a FHIR server. |
 | [Dockerized Whistle](https://github.com/NIH-NCPI/dockerized-whistle) | Docker image for a fully functional whistle application with a shell script for easy execution. |
 | [map-dragon](https://github.com/NIH-NCPI/map-dragon).| This application will support several user groups in submitting and validating their data, managing and tracking data definitions, and aligning data to standardized terms.|
+| [Watershed-SV Workflow](https://dockstore.org/workflows/github.com/jasonbhn/Watershed-SV/Watershed-SV:WDL?tab=info) | The Watershed-SV model extends the existing [Watershed Model](https://github.com/BennyStrobes/Watershed) to model the impact of rare structural variants (SVs) on nearby gene expressions outliers. Watershed-SV was developed by the [AnVIL-BioData Catalyst Interoperability](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/JHU-AnVIL-BDC.md) project team. More information can also be found on the [Watershed-SV GitHub](https://github.com/jasonbhn/Watershed-SV).| 
 
 
 
