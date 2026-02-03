@@ -21,7 +21,8 @@ The purpose of this page is two fold:
     - The [About](https://github.com/NIH-NCPI/About/blob/main/README.md) repository provides an overview of the NCPI program and its components.
     - The [Partners](https://github.com/NIH-NCPI/Partners/blob/main/README.md) repository provides details on the NCPI partner systems.
     - The [Projects](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md) repository provides an overview of ongoing and past interoperability projects.
-    - The [Resources](https://github.com/NIH-NCPI/Resources/blob/main/README.md) repository provides various interoperability resources inlcuding information about key NCPI standards such as Researcher Auth Service, Data Repository Service, and FHIR. 
+    - The [Resources](https://github.com/NIH-NCPI/Resources/blob/main/README.md) repository provides various interoperability resources inlcuding information about key NCPI standards such as Researcher Auth Service, Data Repository Service, and FHIR.
+    - The [Events](https://github.com/NIH-NCPI/Events/blob/main/README.md) repository provides details on past and future NCPI Workshops. 
   
 
 ## Interoperability Resources Table
